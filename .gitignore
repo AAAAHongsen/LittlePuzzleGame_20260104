@@ -1,3 +1,9 @@
+#=====C#======
+bin/
+obj/
+.vs/
+*.user
+
 # Prerequisites
 *.d
 
