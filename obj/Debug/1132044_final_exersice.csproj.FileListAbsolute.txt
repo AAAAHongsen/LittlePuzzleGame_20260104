@@ -1,0 +1,12 @@
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\bin\Debug\1132044_final_exersice.exe.config
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\bin\Debug\1132044_final_exersice.exe
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\bin\Debug\1132044_final_exersice.pdb
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\1132044_final_exersice.csproj.AssemblyReference.cache
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\_1132044_final_exersice.GameForm.resources
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\_1132044_final_exersice.Properties.Resources.resources
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\1132044_final_exersice.csproj.GenerateResource.cache
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\1132044_final_exersice.csproj.CoreCompileInputs.cache
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\1132044_final_exersice.exe
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\1132044_final_exersice.pdb
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\_1132044_final_exersice.PieceForm.resources
+C:\Users\sunny\Programing\C#專案\1132044_final_exercise\1132044_final_exersice\obj\Debug\_1132044_final_exersice.CompletedForm.resources
